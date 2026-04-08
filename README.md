@@ -2,6 +2,10 @@
 
 ## Étudiante en Developpement web chez ÉPITECH
 
+## Qui suis-je ?
+Actuellement en formation à Epitech Lille, je me spécialise dans le développement fullstask avec une forte affinité pour le Front-end. Passionnée par la création d'interfaces modernes et intuitives, ma formation m'apporte une maîtrise rigoureuse ainsi que de l'autonomie. 
+#### Je suis actuellement à la recherche d'une alternance pour la période du 14 septembre 2026 au 22 octobre 2027.
+
 ### Langages et Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
