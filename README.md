@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Célia%20KADJO&textBg=false&descAlign=39&descAlignY=54&fontSize=50&reversal=true&animation=twinkling&fontColor=004aad)
 
-## Étudiante en Developpement web chez ÉPITECH
+## Étudiante en Developpement web chez ÉPITECH - À la recherche d'une alternance !
 
 ## Qui suis-je ?
 Actuellement en formation à Epitech Lille, je me spécialise dans le développement fullstask avec une forte affinité pour le Front-end. Passionnée par la création d'interfaces modernes et intuitives, ma formation m'apporte une maîtrise rigoureuse ainsi que de l'autonomie. 
-#### Je suis actuellement à la recherche d'une alternance pour la période du 14 septembre 2026 au 22 octobre 2027.
+### Je suis actuellement à la recherche d'une alternance pour la période du 14 septembre 2026 au 22 octobre 2027.
 
 ### Langages et Technologies
 
