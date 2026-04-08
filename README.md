@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Celia%20KADJO&fontSize=70&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=Célia%20KADJO&textBg=false&descAlign=39&descAlignY=54&fontSize=50&reversal=true&animation=twinklinghttps://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Celia%20KADJO&fontSize=70&animation=fadeIn)
 
 ÉTUDIANTE À ![Epitech](https://img.shields.io/badge/Epitech-0055A4?style=for-the-badge&logo=Epitech&logoColor=white)
 
@@ -12,5 +12,5 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/celia-kadjo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celia.kadjo.pro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/celia-kadjo) : www.linkedin.com/in/celia-kadjo
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celia.kadjo.pro@gmail.com) : celia.kadjo.pro@gmail.com
