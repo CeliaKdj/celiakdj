@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=5B4EF7&background=C4ADFF00&center=true&repeat=false&width=435&lines=C%C3%A9lia+KADJO;+%C3%89tudiante+en+developpement+web+chez+EPITECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=800&color=5B4EF7&background=C4ADFF00&center=true&multiline=true&repeat=false&width=435&lines=C%C3%A9lia+KADJO;+%C3%89tudiante+chez+EPITECH" alt="Typing SVG" /></a>
