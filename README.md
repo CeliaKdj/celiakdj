@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=Célia%20KADJO&textBg=false&descAlign=39&descAlignY=54&fontSize=50&reversal=true&animation=twinklinghttps://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Celia%20KADJO&fontSize=70&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&text=Célia%20KADJO&fontSize=50&animation=twinkling)
 
-ÉTUDIANTE À ![Epitech](https://img.shields.io/badge/Epitech-0055A4?style=for-the-badge&logo=Epitech&logoColor=white)
+## Étudiante en Developpement web chez ÉPITECH
 
-### 🛠 Langages et Technologies
+### Langages et Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -11,6 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 📫 Me contacter
+### Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/celia-kadjo) : www.linkedin.com/in/celia-kadjo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celia.kadjo.pro@gmail.com) : celia.kadjo.pro@gmail.com
