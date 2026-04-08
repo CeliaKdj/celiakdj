@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&text=Célia%20KADJO&fontSize=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Célia%20KADJO&textBg=false&descAlign=39&descAlignY=54&fontSize=50&reversal=true&animation=twinkling&fontColor=004aad)
 
 ## Étudiante en Developpement web chez ÉPITECH
 
